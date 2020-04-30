@@ -1,0 +1,8 @@
+# Directorios de recuperación
+__history/
+__recovery/
+Win32/
+
+# Archivos y Extensiones
+*.identcache
+*.local
